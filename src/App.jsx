@@ -44,7 +44,7 @@ function App() {
             </div>
           </div>
         </a>
-        <a href="" className='transition hover:scale-105'>
+        <a href="https://www.instagram.com/_santap.in?igsh=ZzFhY3g5dzI4eTgy" target='_blank' className='transition hover:scale-105'>
           <div className="flex w-80 sm:w-[600px] h-14 mx-4 shadow-md items-center bg-[#F9F5F5] px-2 py-2 rounded-sm">
             <FaSquareInstagram className='text-3xl ml-2'/>
             <div className="flex items-center justify-center w-full">
