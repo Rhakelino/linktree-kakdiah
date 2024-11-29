@@ -9,11 +9,11 @@ function App() {
   return (
     <div className="flex justify-center min-h-screen items-center bg-[#EFEAE5]">
       <div className="max-w-sm flex flex-col justify-center items-center gap-5 my-0 sm:my-14">
-        <img src="src/images/1.webp" className='w-24 rounded-full' alt="Profile" />
+        <img src="./images/1.webp" className='w-24 rounded-full' alt="Profile" />
         <h1 className='text-center font-bold text-xl'>@Brownies</h1>
         <a href="" className='transition hover:scale-105'>
           <div className="flex w-80 sm:w-[600px] h-14 mx-4 shadow-md items-center bg-[#F9F5F5] px-2 py-2 rounded-sm">
-            <img src="src/images/1.webp" className='w-12 rounded-md' alt="Thumbnail" />
+            <img src="./images/1.webp" className='w-12 rounded-md' alt="Thumbnail" />
             <div className="flex items-center justify-center w-full">
               <h1 className='mr-10 font-semibold'>PriceList PDF</h1>
             </div>
